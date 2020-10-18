@@ -249,6 +249,6 @@ In an error, you can see the `environment`, the information about `log level`, `
 
 ![](./image/error-detail.png)
 
-And then you can assign person to fix the error you want. Using the third-party integration/plugin, you can send an alert to slack, mail, ... ow whatever you want!
+And then you can assign person to fix the error you want. Using the third-party integration/plugin, you can send an alert to slack, mail, ... or whatever you want!
 
 Good luck, happy hacking!
